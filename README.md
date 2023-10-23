@@ -1,2 +1,0 @@
-#PhoneBook
-This is my personal project where i try to create a phone book using C programming language. The main focus of this projcet was to understand how to read and write to files and oparating on stuctures that i have created.
